@@ -22,8 +22,8 @@ title: AI Interpretability and Scientific Discovery
 email: claus.horn@yale.com
 description: >- # this means to ignore newlines until "baseurl:"
   Insights on AI interpretability, mechanistic analysis, and AI for scientific discovery.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://claushorn.github.io/writing" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/writing" # the subpath of your site, e.g. /blog
+url: "https://claushorn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: claushorn
 
 # Build settings
