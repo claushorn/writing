@@ -31,15 +31,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-sass:
-  style: compressed
-# Add to include your custom CSS
-defaults:
-  - scope:
-      path: ""
-      type: "styles"
-    values:
-      layout: null
 
 # Exclude from processing.
 # The following items will not be processed, by default.
